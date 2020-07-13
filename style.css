@@ -1,0 +1,19 @@
+body{
+    text-align: center !important;
+}
+
+h1.timer{
+    color: #000000 !important;
+    display: inline-block !important;
+    width: 100px !important;
+    
+}
+
+.width{
+    width: 160px;
+    text-align: center;
+    margin: 5px auto 5px auto;
+}
+ul{
+    list-style: none !important;
+}
